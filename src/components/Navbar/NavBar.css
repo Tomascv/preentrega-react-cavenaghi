@@ -1,0 +1,26 @@
+/*NavBar*/
+
+.styleNav {
+    background-color: #2d303b;
+    margin-bottom: 30px
+  };
+  
+  .link-modi {
+    text-decoration: none;
+    color: rgb(245, 245, 245)
+  };
+  
+  .logo2{
+   height: 20px;
+   margin-right: 32px;
+   margin-left:16;
+  }
+
+  .title_prin{
+    color: #F25C5C;
+    font-size: 25px;
+    padding-left: 6px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }

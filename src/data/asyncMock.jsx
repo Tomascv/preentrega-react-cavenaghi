@@ -1,0 +1,30 @@
+export const listadoProdutos=[
+	{	id:1,
+		category:"",
+		content:"",
+		name:"Producto 1",
+		description:"este es el producto 1",		
+        img:"",
+    	price:3999,
+		stock:25
+	},
+	{	id:2,
+		category:"",
+		content:"",
+		name:"producto 2",
+		description:"este es el producto2",		
+		img:"",		
+        price:6300,
+		stock: 34,
+	},
+		{ id:3,
+		category:"",
+		content:"",
+		name:"Producto 3",
+		description:"Este es el producto 3",		
+		img:"",		
+		price: 800,
+		stock:18
+	},
+]
+
